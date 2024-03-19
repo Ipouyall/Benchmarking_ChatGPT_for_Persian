@@ -1,0 +1,179 @@
+solution,bot_solution,evaluation
+6957,1425,{'accuracy': 0.0}
+7 مهر,8 مهر,{'accuracy': 0.0}
+5 سال,5,{'accuracy': 1.0}
+190,189,{'accuracy': 0.0}
+183,183,{'accuracy': 1.0}
+500 تومان,1000,{'accuracy': 0.0}
+12 نقطه,24,{'accuracy': 0.0}
+32 سیب,8,{'accuracy': 0.0}
+7 مهره,6,{'accuracy': 0.0}
+4,9,{'accuracy': 0.0}
+14 نفر,6,{'accuracy': 0.0}
+سال 1374,1355,{'accuracy': 0.0}
+35 میلیمتر,3.5,{'accuracy': 0.0}
+12 ساعت,1.44 ساعت,{'accuracy': 0.0}
+8 مثلث,8 مثلث کوچک و 4 مثلث بزرگ,{'accuracy': 0.0}
+1000,1000,{'accuracy': 1.0}
+9:25,10:25,{'accuracy': 0.0}
+10,"10, -10",{'accuracy': 0.0}
+1,1,{'accuracy': 1.0}
+63,63,{'accuracy': 1.0}
+149.2,149.20,{'accuracy': 0.0}
+4 مرتبه,3,{'accuracy': 0.0}
+2.5 دقیقه,2.5 دقیقه,{'accuracy': 1.0}
+43,7,{'accuracy': 0.0}
+60 دانش آموز,60,{'accuracy': 1.0}
+13,1,{'accuracy': 0.0}
+16,16,{'accuracy': 1.0}
+27,81,{'accuracy': 0.0}
+55,43,{'accuracy': 0.0}
+18,1/8,{'accuracy': 0.0}
+16,64,{'accuracy': 0.0}
+44,44,{'accuracy': 1.0}
+25,,{'accuracy': 0.0}
+1,1,{'accuracy': 1.0}
+2,2,{'accuracy': 1.0}
+5,5,{'accuracy': 1.0}
+2,2,{'accuracy': 1.0}
+1,1,{'accuracy': 1.0}
+3,3,{'accuracy': 1.0}
+4,-4,{'accuracy': 1.0}
+9,9,{'accuracy': 1.0}
+3,-3,{'accuracy': 1.0}
+2,2,{'accuracy': 1.0}
+5,5,{'accuracy': 1.0}
+3,3,{'accuracy': 1.0}
+3,4,{'accuracy': 0.0}
+7,6,{'accuracy': 0.0}
+5,5,{'accuracy': 1.0}
+2,5,{'accuracy': 0.0}
+2,4,{'accuracy': 0.0}
+8,8,{'accuracy': 1.0}
+1,8,{'accuracy': 0.0}
+1,8,{'accuracy': 0.0}
+2,7,{'accuracy': 0.0}
+9,9,{'accuracy': 1.0}
+2 مثلث,3,{'accuracy': 0.0}
+3 تا,حداکثر تعداد هرمهایی که میتوان درون استخر ساخت، برابر است با 960 / (1/3 * a^2 * h)، که در آن a طول ضلع پایه هر هرم و h عمق هر هرم است.,{'accuracy': 0.0}
+4 واحد,مساحت مثلث دوم = 2,{'accuracy': 0.0}
+36 کاغذ,2,{'accuracy': 0.0}
+2,-7,{'accuracy': 0.0}
+6,بیش از یک,{'accuracy': 0.0}
+14,101,{'accuracy': 0.0}
+7,0، 3، 6، 9، 12,{'accuracy': 0.0}
+13/18,1/2,{'accuracy': 0.0}
+28,17,{'accuracy': 0.0}
+4,5,{'accuracy': 0.0}
+5,1,{'accuracy': 0.0}
+15,15,{'accuracy': 1.0}
+68,68,{'accuracy': 1.0}
+8,8,{'accuracy': 1.0}
+32,-32,{'accuracy': 1.0}
+0.38,28.48,{'accuracy': 0.0}
+333,111,{'accuracy': 0.0}
+4:30,4:30 بعد از ظهر,{'accuracy': 1.0}
+20%,20,{'accuracy': 1.0}
+7,7,{'accuracy': 1.0}
+4,12,{'accuracy': 0.0}
+23,,{'accuracy': 0.0}
+5999,8000,{'accuracy': 0.0}
+6,3,{'accuracy': 0.0}
+0.5,,{'accuracy': 0.0}
+10 درصد,10%,{'accuracy': 1.0}
+13 اینچ مربع,48,{'accuracy': 0.0}
+3,3,{'accuracy': 1.0}
+36,16*pi,{'accuracy': 0.0}
+6,5,{'accuracy': 0.0}
+42,۱۲۶ اینچ,{'accuracy': 0.0}
+4,۲,{'accuracy': 0.0}
+564,563,{'accuracy': 0.0}
+162,189,{'accuracy': 0.0}
+66,55,{'accuracy': 0.0}
+6,6,{'accuracy': 1.0}
+5040,210,{'accuracy': 0.0}
+5,5,{'accuracy': 1.0}
+8,10,{'accuracy': 0.0}
+10,10,{'accuracy': 1.0}
+4005,2003,{'accuracy': 0.0}
+1023,1023,{'accuracy': 1.0}
+10,10,{'accuracy': 1.0}
+400,400,{'accuracy': 1.0}
+123,,{'accuracy': 0.0}
+0.17,0.17,{'accuracy': 1.0}
+350,ششمین عضو برابر است با 350.,{'accuracy': 1.0}
+600,3024,{'accuracy': 0.0}
+8,8 کیلوپاسکال,{'accuracy': 1.0}
+8,مجموعه اعداد مورد نظر وجود ندارد.,{'accuracy': 0.0}
+2,2,{'accuracy': 1.0}
+1,1,{'accuracy': 1.0}
+30,12,{'accuracy': 0.0}
+18,6,{'accuracy': 0.0}
+54,54,{'accuracy': 1.0}
+24,8,{'accuracy': 0.0}
+36,36,{'accuracy': 1.0}
+6,8,{'accuracy': 0.0}
+100,200,{'accuracy': 0.0}
+0.54,0.0054,{'accuracy': 0.0}
+21,21,{'accuracy': 1.0}
+70,20,{'accuracy': 0.0}
+144,144,{'accuracy': 1.0}
+3,3,{'accuracy': 1.0}
+126,27,{'accuracy': 0.0}
+3,3,{'accuracy': 1.0}
+8000,8000,{'accuracy': 1.0}
+8918,8918,{'accuracy': 1.0}
+3600,3600,{'accuracy': 1.0}
+4,4,{'accuracy': 1.0}
+140,45,{'accuracy': 0.0}
+3,جذر سوم عدد 11,{'accuracy': 0.0}
+120,60,{'accuracy': 0.0}
+15,بیشتر است,{'accuracy': 0.0}
+31,32,{'accuracy': 0.0}
+3,2,{'accuracy': 0.0}
+40,40,{'accuracy': 1.0}
+12,12,{'accuracy': 1.0}
+28,100,{'accuracy': 0.0}
+864000,729,{'accuracy': 0.0}
+1/4,1/4,{'accuracy': 1.0}
+12,48,{'accuracy': 0.0}
+380,380,{'accuracy': 1.0}
+7,8,{'accuracy': 0.0}
+14400,1,{'accuracy': 0.0}
+1000000,"1,000,000",{'accuracy': 0.0}
+70,8!,{'accuracy': 0.0}
+31,31,{'accuracy': 1.0}
+120,720,{'accuracy': 0.0}
+5,128,{'accuracy': 0.0}
+5,24,{'accuracy': 0.0}
+17/18,1,{'accuracy': 0.0}
+1/20,1/2,{'accuracy': 0.0}
+0.5,0.5,{'accuracy': 1.0}
+11/36,11/36,{'accuracy': 1.0}
+37/819,0.0439 (تقریباً 4.39 درصد),{'accuracy': 0.0}
+243,20,{'accuracy': 0.0}
+28,28,{'accuracy': 1.0}
+45,11,{'accuracy': 0.0}
+1963,تعداد عدد های صحیح مثبت کوچکتر از 2008 که تعداد زوجی از مقسوم علیه ها را دارند، برابر با 1003 میباشد.,{'accuracy': 0.0}
+6720,40320,{'accuracy': 0.0}
+6,7/1296,{'accuracy': 0.0}
+3,تعداد اعداد دقیق بین 200 تا 300 برابر است با 3.,{'accuracy': 0.0}
+110,10,{'accuracy': 0.0}
+48,,{'accuracy': 0.0}
+1,1/16,{'accuracy': 0.0}
+243,243,{'accuracy': 1.0}
+36,72,{'accuracy': 0.0}
+4,4,{'accuracy': 1.0}
+1/4,1/3,{'accuracy': 0.0}
+1275,"مقدار عدد مثلثی پنجاهم برابر است با C(50, 25) = 1961256",{'accuracy': 0.0}
+8.5,8.5,{'accuracy': 1.0}
+11/850,0.0129,{'accuracy': 0.0}
+280,280,{'accuracy': 1.0}
+12/25,6.25,{'accuracy': 0.0}
+58500,"67,600",{'accuracy': 0.0}
+1,1,{'accuracy': 1.0}
+16,16,{'accuracy': 1.0}
+12,12,{'accuracy': 1.0}
+7,52,{'accuracy': 0.0}
+5,5,{'accuracy': 1.0}
+18,18,{'accuracy': 1.0}
