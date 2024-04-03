@@ -114,6 +114,10 @@ The SOTA models used as a baseline in the paper are as follows:
 |                          | [mt5-base-parsinlu-translation_en_fa](https://huggingface.co/persiannlp/mt5-base-parsinlu-translation_en_fa) |
 |                          | **[mt5-large-parsinlu-translation_en_fa](https://huggingface.co/persiannlp/mt5-large-parsinlu-translation_en_fa)** (English to Persian) |
 
+## How to run?
+
+For each experiment, there as notebook in the paper where you can follow them step by step. Remember to replace you `API-KEY` for the models. In addition, for `ChatGPT` experiments, as mentioned in the paper we used two different versions. For GPT-3.5 we used `gpt-3.5-turbo-0125` and for GPT-4 we used `gpt-4-0125-preview`.
+
 ## Citation
 
 ```
