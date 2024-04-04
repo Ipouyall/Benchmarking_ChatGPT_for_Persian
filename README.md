@@ -6,7 +6,7 @@
 
 <p align="center">
   <br>
-  <a href="#"><img alt="Paper" src="https://img.shields.io/badge/📃-Paper-808080"></a>
+  <a href="https://arxiv.org/abs/2404.02403"><img alt="Paper" src="https://img.shields.io/badge/📃-Paper-808080"></a>
   <a href="#"><img alt="Video" src="https://img.shields.io/badge/​-Video-red?logo=youtube&logoColor=FF0000"></a>
   <a href="#"><img alt="Slides" src="https://img.shields.io/badge/​-Slides-FFBB00?logo=googlesheets&logoColor=FFBB00"></a>
 </p>
