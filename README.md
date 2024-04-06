@@ -6,7 +6,7 @@
 
 <p align="center">
   <br>
-  <a href="#"><img alt="Paper" src="https://img.shields.io/badge/📃-Paper-808080"></a>
+  <a href="https://arxiv.org/abs/2404.02403"><img alt="Paper" src="https://img.shields.io/badge/📃-Paper-808080"></a>
   <a href="#"><img alt="Video" src="https://img.shields.io/badge/​-Video-red?logo=youtube&logoColor=FF0000"></a>
   <a href="#"><img alt="Slides" src="https://img.shields.io/badge/​-Slides-FFBB00?logo=googlesheets&logoColor=FFBB00"></a>
 </p>
@@ -27,6 +27,12 @@ These results highlight the significant potential for enhancing LLM performance 
 
 
 ## Datasets
+
+The `benchmarks` and `prompts` used in our paper can be found in `Benchmarks` directory. 
+In it for each task there are three files available:
+- `.jsonl` file which includes the test samples
+- `prompt.py` file which includes our prompts both in English and Farsi(Persian)
+- `sample.ipynb` which is a sample notebook for getting the evaluation results.
 
 For the new benchmarks introduced in the paper you find them using the following links:
 
@@ -121,6 +127,12 @@ For each experiment, there as notebook in the paper where you can follow them st
 ## Citation
 
 ```
-@inproceedings{
+@misc{abaskohi2024benchmarking,
+      title={Benchmarking Large Language Models for Persian: A Preliminary Study Focusing on ChatGPT}, 
+      author={Amirhossein Abaskohi and Sara Baruni and Mostafa Masoudi and Nesa Abbasi and Mohammad Hadi Babalou and Ali Edalat and Sepehr Kamahi and Samin Mahdizadeh Sani and Nikoo Naghavian and Danial Namazifard and Pouya Sadeghi and Yadollah Yaghoobzadeh},
+      year={2024},
+      eprint={2404.02403},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
